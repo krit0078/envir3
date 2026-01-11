@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1768140799,
+	"version": 1768150847,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -77,6 +77,7 @@
 		"images/pb_sign-sheet0.png",
 		"images/pin-sheet0.png",
 		"images/home-sheet0.png",
+		"images/previews-sheet0.png",
 		"media/pop-39222.m4a",
 		"media/pop-39222.ogg",
 		"icon-16.png",
